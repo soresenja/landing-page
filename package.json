@@ -1,5 +1,8 @@
 {
+<<<<<<< HEAD
   "homepage": "https://github.com/soresenja/landing-page.git",
+=======
+>>>>>>> 4e74125b52b1b82a0066aff411e7a62560581d4f
   "name": "landing-page",
   "version": "0.1.0",
   "private": true,
